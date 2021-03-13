@@ -1,0 +1,25 @@
+438
+Tablica azymutów
+zmienna Szybkość cansata
+tablica wysokości (z)
+tablica azymutów wiatru
+tablica sily wiatru
+
+?
+tablica x_wiatr_zielony
+tablica y_wiatr_zielony
+tablica x_wiatr_fioletowy
+tablica x_wiatr_fioletowy
+
+zmienna poczatkowy x cansata
+zmienna poczatkowy y cansata
+zmienna wspolczynnik_wysokosci //?
+
+tablica algorytmów lotu
+
+//+ zmienne po prawej
+
+
+
+
+skala = 0.4;

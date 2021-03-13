@@ -1,0 +1,771 @@
+[
+  {
+    "yPocz": 1972.0244140625,
+    "wysokoscPocz": 0,
+    "azymutPocz": 0,
+    "id": 0,
+    "xPocz": 1711.91455078125
+  },
+  {
+    "Zmienna2": "linkaL",
+    "Zmienna3": "aktualnyAlgorytm",
+    "id": 1,
+    "Zmienna1": "linkaP"
+  },
+  {
+    "wiatrZielonyX": 0,
+    "wiatrZielonyY": 0,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 0,
+    "szybkoscCansata": 0,
+    "id": 2,
+    "xCansata": 0,
+    "yCansata": 0,
+    "wysokosci": 0,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 3,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0,
+    "wiatrZielonyY": 0,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 0.1680000126361847,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 4,
+    "xCansata": 0.0028148633427917957,
+    "yCansata": 0.9599959254264832,
+    "wysokosci": 2999.39990234375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 5,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": -0.01700592041015625,
+    "wiatrZielonyY": 0.12859344482421875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 0.5040000677108765,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 6,
+    "xCansata": 0.01107383705675602,
+    "yCansata": 1.9185559749603271,
+    "wysokosci": 2998.7998046875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 7,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.008544921875,
+    "wiatrZielonyY": 0.249603271484375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 1.008000135421753,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 8,
+    "xCansata": 0.02805539034307003,
+    "yCansata": 2.8756844997406006,
+    "wysokosci": 2998.19970703125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 9,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.02127838134765625,
+    "wiatrZielonyY": 0.29705810546875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 1.6800001859664917,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 10,
+    "xCansata": 0.05643215775489807,
+    "yCansata": 3.83203125,
+    "wysokosci": 2997.599609375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 11,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.0994110107421875,
+    "wiatrZielonyY": 0.2249755859375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 2.5200002193450928,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 12,
+    "xCansata": 0.09972604364156723,
+    "yCansata": 4.78864860534668,
+    "wysokosci": 2996.99951171875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 13,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.12291717529296875,
+    "wiatrZielonyY": 0.0448760986328125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 3.5280003547668457,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 14,
+    "xCansata": 0.16014182567596436,
+    "yCansata": 5.746339797973633,
+    "wysokosci": 2996.3994140625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 15,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.2093353271484375,
+    "wiatrZielonyY": -0.19704437255859375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 4.704000473022461,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 16,
+    "xCansata": 0.2411532700061798,
+    "yCansata": 6.70525598526001,
+    "wysokosci": 2995.79931640625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 17,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.35250091552734375,
+    "wiatrZielonyY": -0.30582427978515625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 6.048000335693359,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 18,
+    "xCansata": 0.3461458683013916,
+    "yCansata": 7.6632490158081055,
+    "wysokosci": 2995.19921875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 19,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.5050125122070312,
+    "wiatrZielonyY": -0.33301544189453125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 7.560000419616699,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 20,
+    "xCansata": 0.4779568910598755,
+    "yCansata": 8.618536949157715,
+    "wysokosci": 2994.59912109375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 21,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.6542892456054688,
+    "wiatrZielonyY": -0.36004638671875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 9.24000072479248,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 22,
+    "xCansata": 0.6392421126365662,
+    "yCansata": 9.570008277893066,
+    "wysokosci": 2993.9990234375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 23,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.7919921875,
+    "wiatrZielonyY": -0.4384307861328125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 11.088001251220703,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 24,
+    "xCansata": 0.8325058221817017,
+    "yCansata": 10.516870498657227,
+    "wysokosci": 2993.39892578125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 25,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.8618316650390625,
+    "wiatrZielonyY": -0.4070281982421875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 13.10400104522705,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 26,
+    "xCansata": 1.0595581531524658,
+    "yCansata": 11.45631217956543,
+    "wysokosci": 2992.798828125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 27,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 0.9316635131835938,
+    "wiatrZielonyY": -0.2245330810546875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 15.28800106048584,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 28,
+    "xCansata": 1.3228459358215332,
+    "yCansata": 12.38478946685791,
+    "wysokosci": 2992.19873046875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 29,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 1.0643234252929688,
+    "wiatrZielonyY": -0.04468536376953125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 17.64000129699707,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 30,
+    "xCansata": 1.6253705024719238,
+    "yCansata": 13.30013656616211,
+    "wysokosci": 2991.5986328125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 31,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 1.1879043579101562,
+    "wiatrZielonyY": 0.04795074462890625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 20.040000915527344,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 32,
+    "xCansata": 1.9672986268997192,
+    "yCansata": 14.201488494873047,
+    "wysokosci": 2990.99853515625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 33,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 1.399810791015625,
+    "wiatrZielonyY": -0.01367950439453125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 22.440000534057617,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 34,
+    "xCansata": 2.3490164279937744,
+    "yCansata": 15.088945388793945,
+    "wysokosci": 2990.3984375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 35,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 1.6164627075195312,
+    "wiatrZielonyY": -0.00234222412109375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 24.84000015258789,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 36,
+    "xCansata": 2.769932985305786,
+    "yCansata": 15.960156440734863,
+    "wysokosci": 2989.79833984375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 37,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 1.8370132446289062,
+    "wiatrZielonyY": 0.04888916015625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 27.239999771118164,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 38,
+    "xCansata": 3.2293829917907715,
+    "yCansata": 16.813156127929688,
+    "wysokosci": 2989.1982421875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 39,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.05279541015625,
+    "wiatrZielonyY": 0.2069244384765625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 29.639999389648438,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 40,
+    "xCansata": 3.72654390335083,
+    "yCansata": 17.645280838012695,
+    "wysokosci": 2988.59814453125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 41,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.2459869384765625,
+    "wiatrZielonyY": 0.46488189697265625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 32.040000915527344,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 42,
+    "xCansata": 4.260336399078369,
+    "yCansata": 18.4539794921875,
+    "wysokosci": 2987.998046875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 43,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.4189071655273438,
+    "wiatrZielonyY": 0.6927871704101562,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 34.44000244140625,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 44,
+    "xCansata": 4.82964563369751,
+    "yCansata": 19.2381534576416,
+    "wysokosci": 2987.39794921875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 45,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.5824508666992188,
+    "wiatrZielonyY": 0.9002914428710938,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 36.840003967285156,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 46,
+    "xCansata": 5.433416843414307,
+    "yCansata": 19.996633529663086,
+    "wysokosci": 2986.7978515625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 47,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.7363815307617188,
+    "wiatrZielonyY": 1.1321640014648438,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 39.24000549316406,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 48,
+    "xCansata": 6.070535659790039,
+    "yCansata": 20.727806091308594,
+    "wysokosci": 2986.19775390625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 49,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 2.8675155639648438,
+    "wiatrZielonyY": 1.2609786987304688,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 41.64000701904297,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 50,
+    "xCansata": 6.739687919616699,
+    "yCansata": 21.43149185180664,
+    "wysokosci": 2985.59765625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 51,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.046478271484375,
+    "wiatrZielonyY": 1.2910308837890625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 44.040008544921875,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 52,
+    "xCansata": 7.440276145935059,
+    "yCansata": 22.107507705688477,
+    "wysokosci": 2984.99755859375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 53,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.23748779296875,
+    "wiatrZielonyY": 1.3661422729492188,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 46.44001007080078,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 54,
+    "xCansata": 8.17126178741455,
+    "yCansata": 22.754152297973633,
+    "wysokosci": 2984.3974609375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 55,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.3758544921875,
+    "wiatrZielonyY": 1.4345321655273438,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 48.6720085144043,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 56,
+    "xCansata": 8.928993225097656,
+    "yCansata": 23.372455596923828,
+    "wysokosci": 2983.79736328125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 57,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.4541473388671875,
+    "wiatrZielonyY": 1.489990234375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 50.73600769042969,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 58,
+    "xCansata": 9.709943771362305,
+    "yCansata": 23.96377944946289,
+    "wysokosci": 2983.197265625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 59,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.5315933227539062,
+    "wiatrZielonyY": 1.5185699462890625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 52.63200759887695,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 60,
+    "xCansata": 10.511433601379395,
+    "yCansata": 24.529869079589844,
+    "wysokosci": 2982.59716796875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 61,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.6068267822265625,
+    "wiatrZielonyY": 1.4152908325195312,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 54.360008239746094,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 62,
+    "xCansata": 11.330967903137207,
+    "yCansata": 25.07381248474121,
+    "wysokosci": 2981.9970703125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 63,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.6846542358398438,
+    "wiatrZielonyY": 1.1683807373046875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 55.92000961303711,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 64,
+    "xCansata": 12.166290283203125,
+    "yCansata": 25.599000930786133,
+    "wysokosci": 2981.39697265625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 65,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.7845535278320312,
+    "wiatrZielonyY": 0.9223556518554688,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 57.312007904052734,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 66,
+    "xCansata": 13.015535354614258,
+    "yCansata": 26.10740089416504,
+    "wysokosci": 2980.796875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 67,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 3.8884506225585938,
+    "wiatrZielonyY": 0.530364990234375,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 58.536006927490234,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 68,
+    "xCansata": 13.87680435180664,
+    "yCansata": 26.602699279785156,
+    "wysokosci": 2980.19677734375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 69,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.00958251953125,
+    "wiatrZielonyY": 0.17578887939453125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 59.59200668334961,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 70,
+    "xCansata": 14.748491287231445,
+    "yCansata": 27.08669090270996,
+    "wysokosci": 2979.5966796875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 71,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.197746276855469,
+    "wiatrZielonyY": -0.04901123046875,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 60.48000717163086,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 72,
+    "xCansata": 15.629661560058594,
+    "yCansata": 27.560243606567383,
+    "wysokosci": 2978.99658203125,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 73,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.397216796875,
+    "wiatrZielonyY": -0.25933837890625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 61.200008392333984,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 74,
+    "xCansata": 16.51888656616211,
+    "yCansata": 28.025554656982422,
+    "wysokosci": 2978.396484375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 75,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.587493896484375,
+    "wiatrZielonyY": -0.46063995361328125,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 61.75200653076172,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 76,
+    "xCansata": 17.414602279663086,
+    "yCansata": 28.48493766784668,
+    "wysokosci": 2977.79638671875,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 77,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.7430419921875,
+    "wiatrZielonyY": -0.5299606323242188,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 62.13600540161133,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 78,
+    "xCansata": 18.31504249572754,
+    "yCansata": 28.93939781188965,
+    "wysokosci": 2977.1962890625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 79,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 4.908302307128906,
+    "wiatrZielonyY": -0.5671768188476562,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 62.35200500488281,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 80,
+    "xCansata": 19.218969345092773,
+    "yCansata": 29.391061782836914,
+    "wysokosci": 2976.59619140625,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 81,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 5.073760986328125,
+    "wiatrZielonyY": -0.5304946899414062,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 62.73600387573242,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 82,
+    "xCansata": 20.127668380737305,
+    "yCansata": 29.83661651611328,
+    "wysokosci": 2975.99609375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 83,
+    "linkaP": "32"
+  },
+  {
+    "wiatrZielonyX": 5.289207458496094,
+    "wiatrZielonyY": -0.5979156494140625,
+    "wiatrFioletowyY": 0,
+    "azymutCansata": 63.288002014160156,
+    "szybkoscCansata": 0.800000011920929,
+    "id": 84,
+    "xCansata": 21.04291534423828,
+    "yCansata": 30.27466583251953,
+    "wysokosci": 2975.39599609375,
+    "wiatrFioletowyX": 0
+  },
+  {
+    "linkaL": "0",
+    "aktualnyAlgorytm": "Calculating the wind",
+    "id": 85,
+    "linkaP": "32"
+  }
+]

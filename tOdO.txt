@@ -1,0 +1,12 @@
+-usunąć niepotrzebne rzeczy z programu
+-naprawić zieloną linie żeby nie rysowała się jak cansat jest blisko celu
+-zdjęcie mapy dodać kwadratowe
+-przed lotem predkosci opadania i predkosc postępową ustawić
+
+Powtórki:
+-suwak na dole z linią czasu, funkcja odtwarzania
+
+-(dodatkowe) zmiana cansata na inne obiekty (inne parametry)
+-(dodatkowe) automatycznie obracająca się kamera
+-(dodatkowe) wiatr 3D ???
+-(dodatkowe) kamera automatyczna (z góry, do okoła) (kamera za CanSatem)

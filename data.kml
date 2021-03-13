@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+  <Document>
+    <Style id="up">
+      <LineStyle>
+        <color>ff00ff00</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="down">
+      <LineStyle>
+        <color>ff0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff0000ff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <styleUrl>#down</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>16.530352,51.832108,3000.0   16.530352,51.832108,3000.0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#down</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>16.530352,51.832108,3000.0   16.530264,51.83231,2984.0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#down</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>16.530264,51.83231,2984.0   16.529875,51.832653,2954.0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
