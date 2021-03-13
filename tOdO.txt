@@ -10,3 +10,6 @@ Powtórki:
 -(dodatkowe) automatycznie obracająca się kamera
 -(dodatkowe) wiatr 3D ???
 -(dodatkowe) kamera automatyczna (z góry, do okoła) (kamera za CanSatem)
+
+
+cośtam update 10:29
