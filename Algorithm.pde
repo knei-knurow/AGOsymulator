@@ -44,6 +44,7 @@ int granica_zmian = 270;    //metry od których cansat może szukać celów zapa
 
 int x_srodka_okregu = 0;                  //4 mpp      //x i y środka okręgu wyznaczającego obszar do którego CanSat może dolecieć
 int y_srodka_okregu = 0;                  //4 mpp      //
+
 int odleglosc_srodka_okregu_do_celu = 0;  //4 mpp      //odległość środka okręgu do celu
 int promien_okregu = 0;                   //4 mpp      //promień fioletowego okręgu 
 

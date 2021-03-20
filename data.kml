@@ -22,7 +22,7 @@
       <LineString>
         <extrude>1</extrude>
         <altitudeMode>absolute</altitudeMode>
-        <coordinates>16.530352,51.832108,3000.0   16.530352,51.832108,3000.0</coordinates>
+        <coordinates>16.527718,51.831882,3000.0   16.527718,51.831882,3000.0</coordinates>
       </LineString>
     </Placemark>
     <Placemark>
@@ -30,7 +30,7 @@
       <LineString>
         <extrude>1</extrude>
         <altitudeMode>absolute</altitudeMode>
-        <coordinates>16.530352,51.832108,3000.0   16.530264,51.83231,2984.0</coordinates>
+        <coordinates>16.527718,51.831882,3000.0   16.527857,51.8323,2969.0</coordinates>
       </LineString>
     </Placemark>
     <Placemark>
@@ -38,7 +38,7 @@
       <LineString>
         <extrude>1</extrude>
         <altitudeMode>absolute</altitudeMode>
-        <coordinates>16.530264,51.83231,2984.0   16.529875,51.832653,2954.0</coordinates>
+        <coordinates>16.527857,51.8323,2969.0   16.52806,51.832733,2939.0</coordinates>
       </LineString>
     </Placemark>
   </Document>
