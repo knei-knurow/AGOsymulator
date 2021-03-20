@@ -15,4 +15,4 @@ Powtórki:
 kolejna zmiana
 heh
 Ja tu byłem 123
-SSH
+SSH 2
