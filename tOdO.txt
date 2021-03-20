@@ -17,3 +17,4 @@ heh
 Ja tu byłem 123
 SSH 2
 gitignore
+serwer NAS
