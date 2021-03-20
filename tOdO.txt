@@ -6,14 +6,9 @@
 Powtórki:
 -suwak na dole z linią czasu, funkcja odtwarzania
 
+-czasem znika 1 dodatkowy cel (prawy górny) naprawić
+
 -(dodatkowe) zmiana cansata na inne obiekty (inne parametry)
 -(dodatkowe) automatycznie obracająca się kamera
 -(dodatkowe) wiatr 3D ???
 -(dodatkowe) kamera automatyczna (z góry, do okoła) (kamera za CanSatem)
-
-
-kolejna zmiana
-heh
-Ja tu byłem 123
-SSH 2
-gitignore

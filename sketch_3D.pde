@@ -28,7 +28,7 @@ PImage checkboxFalsz;
 //na dole programu też trzeba przestawić zmienne
 //Zmienne które będzie można łatwo zmieniać
 
-final String wersja = "v.2.19";                    //wersja programu 
+final String wersja = "v.3.00";                    //wersja programu 
 
 final int FPS = 30;                                //klatki na sekundę
 
@@ -231,11 +231,13 @@ void draw()
     
     rysujWersjeSymulatora();                        //rysowanie jaka jest wersja symulatora
     
+    //if(Powtorka == true) - zmienne z JSONA
     rysujPoPrawej();                                //rysowanie z prawej strony różnych rzeczy:
                                                     //strony na zmienne, która pokazuje najważniejsze zmienne i te które nas interesują
                                                     //legendy, która tłumaczy czym są różne rzeczy
                                                     //przy restarcie robi jeszcze suwak
     
+    //if(Powtorka == true) - wiatr z JSONA
     mapaWiatru();                                   //rysuje mapę wiatru, zaznaczenie gdzie może wiać wiatr, 
                                                     //zieloną linię, która pokazuje jak naprawdę wieje wiatr
                                                     //i różową linię, która pokazuje obliczony wiatr
@@ -250,6 +252,7 @@ void draw()
     
     zamkniecie3D();                                 //kończy rysowanie 3D
     
+    //if(Powtorka == true) - dobry obrót z JSONA
     miniCansat();                                   //rysuje model cansata skierowany w tą samą stronę co zielona strzałka
     
     rysujPunktKamery();                             //rysuje żółtą kropkę na środku ekranu, żeby zorientować się gdzie jest środek kamery
