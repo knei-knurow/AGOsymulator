@@ -11,4 +11,16 @@ Powtórki:
 -(dodatkowe) zmiana cansata na inne obiekty (inne parametry)
 -(dodatkowe) automatycznie obracająca się kamera
 -(dodatkowe) wiatr 3D ???
+<<<<<<< HEAD
 -(dodatkowe) kamera automatyczna (z góry, do okoła) (kamera za CanSatem)
+=======
+-(dodatkowe) kamera automatyczna (z góry, do okoła) (kamera za CanSatem)
+
+
+kolejna zmiana
+heh
+Ja tu byłem 123
+SSH 2
+gitignore
+serwer NAS
+>>>>>>> 9c2dd0c1568eb3d7bfdcb50449f75c73d8b759a3
